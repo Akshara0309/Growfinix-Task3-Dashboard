@@ -1,0 +1,16 @@
+CustomerID,Destination,State,Month,Enquiries
+1,Goa,Tamil Nadu,January,25
+2,Ooty,Karnataka,January,18
+3,Munnar,Kerala,February,30
+4,Goa,Andhra Pradesh,March,22
+5,Munnar,Tamil Nadu,March,28
+6,Kodaikanal,Kerala,April,15
+7,Goa,Karnataka,May,35
+8,Ooty,Tamil Nadu,June,20
+9,Munnar,Andhra Pradesh,July,27
+10,Kodaikanal,Kerala,August,19
+11,Goa,Tamil Nadu,September,31
+12,Ooty,Karnataka,October,24
+13,Munnar,Kerala,November,29
+14,Kodaikanal,Tamil Nadu,December,17
+15,Goa,Kerala,December,40
